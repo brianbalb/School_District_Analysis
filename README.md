@@ -9,7 +9,7 @@
 2. Uphold state-testing honesty: find academic dishonesty in school and ommiting such data from currupting analysis
 3. Conduct origianl analysis with update, ommiting Thomas High School data because of dishonesty, to figure out the impact the dishonesty had and accurate update district results.
 
-# Requested Information Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+# Requested Information Results:
 
 The dishonesty was found to have accured at Thomas High School within the 9th grade data. To follow the stat standards we have ommited all data from Thomas High School using Nan as place holder. Dataframes where created to display important information. 
 
