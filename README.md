@@ -4,9 +4,10 @@
 
 ## Analysis Purpose 
 3 key purposes are as follows:
-* Clean and prepare data to provide clear insight on individual school performance and budgets
-* Uphold state-testing honesty: find academic dishonesty in school and ommiting such data from currupting analysis
-* Conduct origianl analysis with update, ommiting Thomas High School data because of dishonesty, to figure out the impact the dishonesty had and accurate update district results.
+
+1. Clean and prepare data to provide clear insight on individual school performance and budgets
+2. Uphold state-testing honesty: find academic dishonesty in school and ommiting such data from currupting analysis
+3. Conduct origianl analysis with update, ommiting Thomas High School data because of dishonesty, to figure out the impact the dishonesty had and accurate update district results.
 
 # Requested Information Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
