@@ -1,6 +1,6 @@
 # School_District_Analysis
 
-##As requested by client Maria for analyzing school district data to gather new insights and visually provided by clear results on individual school performance. 
+## As requested by client Maria for analyzing school district data to gather new insights and visually provided by clear results on individual school performance. 
 
 ## Analysis Purpose 
 3 key purposes are as follows:
